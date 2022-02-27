@@ -95,3 +95,7 @@ iOSInjectionProject/
 /.DS_Store
 ../.DS_Store
 ../../.DS_Store
+
+
+# Projects specific files
+firebase-auth-example/Pods/
